@@ -21,4 +21,19 @@ https://devdocs.io
 
 # Interview , Interview Question
 1. https://offer.1point3acres.com/
-2. 
+
+
+
+
+<br><br>
+
+
+# Chat AI
+1. Chat GPT - https://chatgpt.com/
+2. Google Gemini - https://gemini.google.com/
+3. Meta AI - https://www.meta.ai/
+4. Deepseek - https://chat.deepseek.com/
+5. Kimi.ai - https://kimi.ai/
+6. Cluade - https://claude.ai/
+7. Copilot - https://copilot.microsoft.com/chats/
+8. 
