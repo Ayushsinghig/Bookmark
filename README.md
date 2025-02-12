@@ -36,4 +36,5 @@ https://devdocs.io
 5. Kimi.ai - https://kimi.ai/
 6. Cluade - https://claude.ai/
 7. Copilot - https://copilot.microsoft.com/chats/
-8. 
+8. LeChat - https://chat.mistral.ai/chat
+9. 
