@@ -37,4 +37,21 @@ https://devdocs.io
 6. Cluade - https://claude.ai/
 7. Copilot - https://copilot.microsoft.com/chats/
 8. LeChat - https://chat.mistral.ai/chat
-9. 
+
+
+
+<br><br>
+
+
+# Create apps
+1. bolt - https://bolt.new/
+
+
+
+
+<br><br>
+
+
+
+# Diagram
+1. eraser - eraser.io
