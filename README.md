@@ -64,3 +64,16 @@ https://devdocs.io
 1. Google cloud - https://gcr.io/distroless or https://console.cloud.google.com/artifacts/docker/distroless/us/gcr.io
 2. Chainguard - https://images.chainguard.dev/
 3. Rapidfort - https://hub.docker.com/search?q=rapidfort
+
+
+
+
+<br> <br>
+
+
+# Free k8s cluster
+1. https://killercoda.com/playgrounds/scenario/kubernetes - (1 master node & 1 worker node)
+2. https://labs.play-with-k8s.com/ - (1 master node & multi worker node)
+
+
+
